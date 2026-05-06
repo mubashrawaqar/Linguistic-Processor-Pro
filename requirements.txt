@@ -1,0 +1,4 @@
+gradio
+deep-translator
+gTTS
+edge-tts
